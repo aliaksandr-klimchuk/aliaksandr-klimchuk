@@ -2,7 +2,7 @@
 
 ## About me
 **Alex**\
-**25 y.o.**\
+**26 y.o.**\
 **MBTI type:** ENFJ-A Protagonist\
 I have a **Master's Degree** in **Computer Science**\
 **Senior Java Developer** with **over 5 years** of expertise in the **Software Development** field
