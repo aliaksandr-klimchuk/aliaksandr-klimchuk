@@ -4,10 +4,12 @@
 **Alex**\
 **26 y.o.**\
 **MBTI type:** ENFJ-A Protagonist\
-I have a **Master's Degree** in **Computer Science**\
-**Senior Java Developer** with **over 5 years** of expertise in the **Software Development** field
-
 **Senior Full-Stack Java & Vue JS Developer | Resource Manager | Mentor | Interviewer**
+with **over 5 years** of expertise in the **Software Development** field
+
+I have a **Master's Degree** in **Computer Science**\
+
+
 
 ### Social Networks
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/crazy-pro)
@@ -93,6 +95,8 @@ I have a **Master's Degree** in **Computer Science**\
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=gitlab&logoColor=orange)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=for-the-badge&logo=jenkins&logoColor=red)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-black?style=for-the-badge&logo=circleci&logoColor=green)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=blue)
+![Rancher](https://img.shields.io/badge/-Rancher-black?style=for-the-badge&logo=rancher&logoColor=blue)
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI_CD-black?style=for-the-badge&logo=gitlab&logoColor=orange)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=for-the-badge&logo=github-actions&logoColor=gray)
 ![AWS EC2](https://img.shields.io/badge/-AWS_EC2-black?style=for-the-badge&logo=amazon-aws&logoColor=orange)
