@@ -46,7 +46,8 @@ I have a **Master's Degree** in **Computer Science**\
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=for-the-badge&logo=macos&logoColor=blue)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=tomato)
 #### IDEs:
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=gray)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=red)
+![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=for-the-badge&logo=WebStorm&logoColor=blue)
 ![DataGrip](https://img.shields.io/badge/-DataGrip-black?style=for-the-badge&logo=datagrip&logoColor=gray)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-black?style=for-the-badge&logo=netbeans&logoColor=blue)
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
