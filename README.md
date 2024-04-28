@@ -7,7 +7,7 @@
 **Senior Full-Stack Java & Vue JS Developer | Resource Manager | Mentor | Interviewer**
 with **over 5 years** of expertise in the **Software Development** field
 
-I have a **Master's Degree** in **Computer Science**\
+I have a **Master's Degree** in **Computer Science**
 
 
 
