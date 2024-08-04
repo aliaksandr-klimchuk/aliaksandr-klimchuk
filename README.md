@@ -113,11 +113,6 @@ I have a **Master's Degree** in **Computer Science**
 ![Confluence](https://img.shields.io/badge/-Confluence-black?style=for-the-badge&logo=confluence&logoColor=blue)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&logoColor=red)
 #### Basics knowledge:
-![JSP](https://img.shields.io/badge/-JSP-black?style=for-the-badge&logo=jsp&logoColor=red)
-![JSF](https://img.shields.io/badge/-JSF-black?style=for-the-badge&logo=jsf&logoColor=blue)
-![JavaFX](https://img.shields.io/badge/-JavaFX-black?style=for-the-badge&logo=javafx&logoColor=orange)
-![XHTML](https://img.shields.io/badge/-XHTML-black?style=for-the-badge&logo=xhtml&logoColor=red)
-![FXML](https://img.shields.io/badge/-FXML-black?style=for-the-badge&logo=fxml&logoColor=orange)
 ![ThymeLeaf](https://img.shields.io/badge/-ThymeLeaf-black?style=for-the-badge&logo=thymeleaf&logoColor=green)
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c&logoColor=green)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)
@@ -134,6 +129,6 @@ I have a **Master's Degree** in **Computer Science**
 * **Russian** - Native
 * **Belarusian** - Native
 * **Ukrainian** - Pre-Intermediate
-* **Polish** - Elementary
+* **Polish** - Pre-Intermediate
 
 ![Gif](https://user-images.githubusercontent.com/94010184/154801518-49ee9ecb-0ddb-4325-9069-d0afeaec691c.gif)
