@@ -4,12 +4,11 @@
 **Alex**\
 **26 y.o.**\
 **MBTI type:** ENFJ-A Protagonist\
+
+I have a **Master's Degree** in **Computer Science** \
+
 **Senior Full-Stack Java & Vue JS Developer | Resource Manager | Mentor | Interviewer** \
 with **over 5 years** of expertise in the **Software Development** field
-
-I have a **Master's Degree** in **Computer Science**
-
-
 
 ### Social Networks
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/crazy-pro)
@@ -18,7 +17,7 @@ I have a **Master's Degree** in **Computer Science**
 ### Contacts
 **Email:** Crazy.pro.noob@gmail.com\
 **Telegram:** Crazy_pro\
-**Skype:** crazy_pr0
+**Skype:** Crazy_pr0
 
 **Location:** Poland, Wroclaw
 
@@ -109,7 +108,6 @@ I have a **Master's Degree** in **Computer Science**
 ![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira&logoColor=blue)
 ![Notion](https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=trello&logoColor=blue)
-![Version One](https://img.shields.io/badge/-Version_One-black?style=for-the-badge&logo=versionone&logoColor=green)
 ![Confluence](https://img.shields.io/badge/-Confluence-black?style=for-the-badge&logo=confluence&logoColor=blue)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&logoColor=red)
 #### Basics knowledge:
