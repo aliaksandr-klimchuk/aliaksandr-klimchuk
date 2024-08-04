@@ -116,17 +116,17 @@ with **over 5 years** of expertise in the **Software Development** field
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)
 ![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp&logoColor=purple)
 
+## Languages
+* **Russian** - Native
+* **Belarusian** - Native
+* **English** - Upper-Intermediate
+* **Ukrainian** - Pre-Intermediate
+* **Polish** - Pre-Intermediate
+
 ## Education
 * **Brest State Technical University**
     + **Master's degree, Artificial Intelligence, 2019-2021**
 * **Brest State Technical University**
     + **Bachelor's degree, Artificial Intelligence, 2015-2019**
-
-## Languages
-* **English** - Upper-Intermediate
-* **Russian** - Native
-* **Belarusian** - Native
-* **Ukrainian** - Pre-Intermediate
-* **Polish** - Pre-Intermediate
 
 ![Gif](https://user-images.githubusercontent.com/94010184/154801518-49ee9ecb-0ddb-4325-9069-d0afeaec691c.gif)
