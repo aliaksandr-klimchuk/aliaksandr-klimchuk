@@ -37,7 +37,7 @@ using **Java, Spring, Vue.js, TypeScript, SQL**
 ![Spring WebMVC](https://img.shields.io/badge/-WebMVC-black?style=for-the-badge&logo=spring&logoColor=green)
 ![Spring Security](https://img.shields.io/badge/-Security-black?style=for-the-badge&logo=spring-security&logoColor=green)\
 ![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=for-the-badge&logo=hibernate&logoColor=grey)\
-![Vue.js](https://img.shields.io/badge/-Vue_js-black?style=for-the-badge&logo=vue.js&logoColor=mint)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=vue.js&logoColor=mint)
 #### Query languages:
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge)
 ![T-SQL](https://img.shields.io/badge/-T--SQL-black?style=for-the-badge)
