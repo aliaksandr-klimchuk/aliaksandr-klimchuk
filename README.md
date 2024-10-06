@@ -1,22 +1,25 @@
 ### Hi there 👋
 
 ## About me
-**Alex**\
-**26 y.o.**\
+**Alex** \
+**26 y.o.** \
 **MBTI type:** ENFJ-A Protagonist
 
 I have a **Master's Degree** in **Computer Science**
 
-**Senior Full-Stack Java & Vue JS Developer | Resource Manager | Mentor | Interviewer** \
-with **over 5 years** of expertise in the **Software Development** field
+**Senior Full-Stack Java & Vue.js Developer | Resource Manager | Mentor | Interviewer** \
+with **over 6 years** of expertise in the **Software Development** field \
+using **Java, Spring, Vue.js, TypeScript, SQL**
 
 ### Social Networks
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/crazy-pro)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Crazy-pro)
 
+[CV - Alex Klimchuk](https://drive.google.com/file/d/1E20aUc6lAUtYucBx8QugTWK4_ayFIy_L/view)
+
 ### Contacts
-**Email:** Crazy.pro.noob@gmail.com\
-**Telegram:** Crazy_pro\
+**Email:** Crazy.pro.noob@gmail.com \
+**Telegram:** Crazy_pro \
 **Skype:** Crazy_pr0
 
 **Location:** Poland, Wroclaw
@@ -34,9 +37,11 @@ with **over 5 years** of expertise in the **Software Development** field
 ![Spring WebMVC](https://img.shields.io/badge/-WebMVC-black?style=for-the-badge&logo=spring&logoColor=green)
 ![Spring Security](https://img.shields.io/badge/-Security-black?style=for-the-badge&logo=spring-security&logoColor=green)\
 ![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=for-the-badge&logo=hibernate&logoColor=grey)\
-![Vue JS](https://img.shields.io/badge/-Vue_js-black?style=for-the-badge&logo=vue.js&logoColor=mint)
+![Vue.js](https://img.shields.io/badge/-Vue_js-black?style=for-the-badge&logo=vue.js&logoColor=mint)
 #### Query languages:
-![T-SQL & PL-SQL](https://img.shields.io/badge/-T--SQL_&_PL--SQL-black?style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge)
+![T-SQL](https://img.shields.io/badge/-T--SQL-black?style=for-the-badge)
+![PL-SQL](https://img.shields.io/badge/-PL--SQL-black?style=for-the-badge)
 #### Source Control: 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=tomato)
 ![Subversion](https://img.shields.io/badge/-Subversion-black?style=for-the-badge&logo=subversion&logoColor=blue)
@@ -49,7 +54,7 @@ with **over 5 years** of expertise in the **Software Development** field
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=for-the-badge&logo=WebStorm&logoColor=blue)
 ![DataGrip](https://img.shields.io/badge/-DataGrip-black?style=for-the-badge&logo=datagrip&logoColor=gray)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-black?style=for-the-badge&logo=netbeans&logoColor=blue)
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 #### Databases:
 ![MS SQL Server](https://img.shields.io/badge/-MS_SQL_Server-black?style=for-the-badge&logo=microsoft-sql-server&logoColor=red)
 ![Oracle DB](https://img.shields.io/badge/-Oracle_DB-black?style=for-the-badge&logo=oracle&logoColor=orange)
@@ -74,10 +79,15 @@ with **over 5 years** of expertise in the **Software Development** field
 ![Docker Compose](https://img.shields.io/badge/-Docker_Compose-black?style=for-the-badge&logo=docker&logoColor=blue)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=blue)
 ![Rancher](https://img.shields.io/badge/-Rancher-black?style=for-the-badge&logo=rancher&logoColor=blue)
-![ActiveMQ](https://img.shields.io/badge/-ActiveMQ-black?style=for-the-badge&logo=activemq&logoColor=red)
+![ActiveMQ](https://img.shields.io/badge/-ActiveMQ-black?style=for-the-badge&logo=activemq&logoColor=purple)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=for-the-badge&logo=rabbitmq&logoColor=orange)
+![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-black?style=for-the-badge&logo=apache-kafka&logoColor=gray)
+![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=redis&logoColor=red)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=for-the-badge&logo=npm&logoColor=red)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vite&logoColor=blue)
 ![Vue Router](https://img.shields.io/badge/-Vue_Router-black?style=for-the-badge&logo=vue-dot-js&logoColor=green)
+![Vuetify](https://img.shields.io/badge/-Vuetify-black?style=for-the-badge&logo=vuetify&logoColor=blue)
+![Tippy](https://img.shields.io/badge/-Tippy-black?style=for-the-badge&logo=tippy&logoColor=black)
 ![Axios](https://img.shields.io/badge/-Axios-black?style=for-the-badge&logo=axios&logoColor=blue)
 ![Vuex](https://img.shields.io/badge/-Vuex-black?style=for-the-badge&logo=vuex&logoColor=green)
 ![Pinia](https://img.shields.io/badge/-Pinia-black?style=for-the-badge&logo=pinia&logoColor=green)
@@ -93,13 +103,14 @@ with **over 5 years** of expertise in the **Software Development** field
 ![YAML](https://img.shields.io/badge/-YAML-black?style=for-the-badge&logo=yaml&logoColor=blue)
 ![JSON](https://img.shields.io/badge/-JSON-black?style=for-the-badge&logo=json&logoColor=orange)
 #### Others:
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=for-the-badge&logo=bitbucket&logoColor=blue)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=gitlab&logoColor=orange)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=for-the-badge&logo=jenkins&logoColor=red)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-black?style=for-the-badge&logo=circleci&logoColor=green)
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI_CD-black?style=for-the-badge&logo=gitlab&logoColor=orange)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=for-the-badge&logo=github-actions&logoColor=gray)
-![AWS EC2](https://img.shields.io/badge/-AWS_EC2-black?style=for-the-badge&logo=amazon-aws&logoColor=orange)
+![AWS EC2](https://img.shields.io/badge/-AWS_EC2-black?style=for-the-badge&logo=amazon-ec2&logoColor=orange)
 ![AWS S3](https://img.shields.io/badge/-AWS_S3-black?style=for-the-badge&logo=amazon-s3&logoColor=orange)
 ![CodeCov](https://img.shields.io/badge/-CodeCov-black?style=for-the-badge&logo=codecov&logoColor=blue)
 ![SonarLint](https://img.shields.io/badge/-SonarLint-black?style=for-the-badge&logo=sonarlint&logoColor=green)
@@ -110,11 +121,16 @@ with **over 5 years** of expertise in the **Software Development** field
 ![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=trello&logoColor=blue)
 ![Confluence](https://img.shields.io/badge/-Confluence-black?style=for-the-badge&logo=confluence&logoColor=blue)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&logoColor=red)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=for-the-badge&logo=elasticsearch&logoColor=red)
+![Kibana](https://img.shields.io/badge/-Kibana-black?style=for-the-badge&logo=kibana&logoColor=red)
+![Grafana](https://img.shields.io/badge/-Grafana-black?style=for-the-badge&logo=grafana&logoColor=red)
+![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=for-the-badge&logo=prometheus&logoColor=red)
 #### Basics knowledge:
 ![ThymeLeaf](https://img.shields.io/badge/-ThymeLeaf-black?style=for-the-badge&logo=thymeleaf&logoColor=green)
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c&logoColor=green)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)
-![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp&logoColor=purple)
+![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c#&logoColor=purple)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=blue)
 
 ## Languages
 * **Russian** - Native
