@@ -18,7 +18,7 @@ using **Java, Spring, Vue.js, TypeScript, SQL**
 [CV - Alex Klimchuk](https://drive.google.com/file/d/1E20aUc6lAUtYucBx8QugTWK4_ayFIy_L/view)
 
 ### Contacts
-**Telegram:** [@alex_klimchuk](https://t.me/alex_klimchuk) \
+**Telegram:** [alex_klimchuk](https://t.me/alex_klimchuk) \
 **Email:** [al3x.klimchuk@gmail.com](mailto:al3x.klimchuk@gmail.com)
 
 **Location:** Poland, Wroclaw
