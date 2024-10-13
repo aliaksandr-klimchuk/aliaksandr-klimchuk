@@ -19,7 +19,7 @@ using **Java, Spring, Vue.js, TypeScript, SQL**
 
 ### Contacts
 **Telegram:** [Alex Klimchuk](https://t.me/alex_klimchuk) \
-**Email:** al3x.klimchuk@gmail.com
+**Email:** [al3x.klimchuk@gmail.com](mailto:al3x.klimchuk@gmail.com)
 
 **Location:** Poland, Wroclaw
 
