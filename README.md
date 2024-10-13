@@ -12,8 +12,8 @@ with **over 6 years** of expertise in the **Software Development** field \
 using **Java, Spring, Vue.js, TypeScript, SQL**
 
 ### Social Networks
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/alex-klimchuk)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aliaksandr-klimchuk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-klimchuk) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliaksandr-klimchuk)
 
 [CV - Alex Klimchuk](https://drive.google.com/file/d/1E20aUc6lAUtYucBx8QugTWK4_ayFIy_L/view)
 
@@ -38,7 +38,7 @@ using **Java, Spring, Vue.js, TypeScript, SQL**
 
 ## Skills
 #### Programming Languages:
-![Java 8-17](https://img.shields.io/badge/Java_8--17-007396?style=for-the-badge&logo=java&logoColor=white) 
+![Java 8-17](https://img.shields.io/badge/Java_8--17-007396?style=for-the-badge&logo=oracle-java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   
