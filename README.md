@@ -12,17 +12,29 @@ with **over 6 years** of expertise in the **Software Development** field \
 using **Java, Spring, Vue.js, TypeScript, SQL**
 
 ### Social Networks
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/crazy-pro)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Crazy-pro)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/alex-klimchuk)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aliaksandr-klimchuk)
 
 [CV - Alex Klimchuk](https://drive.google.com/file/d/1E20aUc6lAUtYucBx8QugTWK4_ayFIy_L/view)
 
 ### Contacts
-**Email:** Crazy.pro.noob@gmail.com \
-**Telegram:** Crazy_pro \
-**Skype:** Crazy_pr0
+**Telegram:** [Alex Klimchuk](https://t.me/alex-klimchuk) \
+**Email:** [al3x.klimchuk@gmail.com](mailto:al3x.klimchuk@gmail.com) 
 
 **Location:** Poland, Wroclaw
+
+## Languages
+* **Russian** - Native
+* **Belarusian** - Native
+* **English** - Upper-Intermediate
+* **Ukrainian** - Pre-Intermediate
+* **Polish** - Pre-Intermediate
+
+## Education
+* **Brest State Technical University**
+    + **Master's degree, Artificial Intelligence, 2019-2021**
+* **Brest State Technical University**
+    + **Bachelor's degree, Artificial Intelligence, 2015-2019**
 
 ## Skills
 #### Programming languages:
@@ -131,18 +143,5 @@ using **Java, Spring, Vue.js, TypeScript, SQL**
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)
 ![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c#&logoColor=purple)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=blue)
-
-## Languages
-* **Russian** - Native
-* **Belarusian** - Native
-* **English** - Upper-Intermediate
-* **Ukrainian** - Pre-Intermediate
-* **Polish** - Pre-Intermediate
-
-## Education
-* **Brest State Technical University**
-    + **Master's degree, Artificial Intelligence, 2019-2021**
-* **Brest State Technical University**
-    + **Bachelor's degree, Artificial Intelligence, 2015-2019**
 
 ![Gif](https://user-images.githubusercontent.com/94010184/154801518-49ee9ecb-0ddb-4325-9069-d0afeaec691c.gif)
