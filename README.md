@@ -17,7 +17,6 @@ Additionally, I’ve conducted 60+ interviews for Java and Full-Stack roles, sha
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-klimchuk) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliaksandr-klimchuk)
 
-[CV - Alex Klimchuk](https://drive.google.com/file/d/1E20aUc6lAUtYucBx8QugTWK4_ayFIy_L/view)
 
 ### Contacts
 **Telegram:** [alex_klimchuk](https://t.me/alex_klimchuk) \
