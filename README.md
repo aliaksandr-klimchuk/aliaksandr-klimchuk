@@ -8,9 +8,9 @@
 I have a **Master's Degree** in **Computer Science**
 
 **Senior Full-Stack Java & Vue.js Developer | Resource Manager | Mentor | Interviewer** \
-with **over 6 years** of expertise in the **Software Development** field. I can design and build Web applications on the Client and Server sides, \
-using **Java, Spring, Vue.js, TypeScript, SQL**. I perform a deep analysis with a look at the problem from different perspectives for the \
-success of the designed products. I’ve mentored developers to enhance their skills and led them through career advancement. \
+with **over 6 years** of expertise in the **Software Development** field. I can design and build Web applications on the Client and Server sides, 
+using **Java, Spring, Vue.js, TypeScript, SQL**. I perform a deep analysis with a look at the problem from different perspectives for the 
+success of the designed products. I’ve mentored developers to enhance their skills and led them through career advancement. 
 Additionally, I’ve conducted 60+ interviews for Java and Full-Stack roles, shaping strong technical teams.
 
 ### Social Networks
