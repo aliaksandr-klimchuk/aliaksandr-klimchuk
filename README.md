@@ -28,8 +28,8 @@ Additionally, I’ve conducted 60+ interviews for Java and Full-Stack roles, sha
 * **English** - Advanced
 * **Russian** - Native
 * **Belarusian** - Native
-* **Ukrainian** - Pre-Intermediate
 * **Polish** - Pre-Intermediate
+* **Ukrainian** - Pre-Intermediate
 
 ## Education
 * **Brest State Technical University**
