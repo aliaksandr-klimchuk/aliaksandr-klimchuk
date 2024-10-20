@@ -18,6 +18,8 @@ Additionally, I’ve conducted 60+ interviews for Java and Full-Stack roles, sha
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliaksandr-klimchuk)
 
 
+[CV - Alex Klimchuk](https://drive.google.com/file/d/1yrDMDTmYo1kTr1MSNyNDDKZHEgnS9YFT/view?usp=sharing)
+
 ### Contacts
 **Telegram:** [alex_klimchuk](https://t.me/alex_klimchuk) \
 **Email:** [al3x.klimchuk@gmail.com](mailto:al3x.klimchuk@gmail.com)
