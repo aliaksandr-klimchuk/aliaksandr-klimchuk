@@ -62,7 +62,7 @@ with **over 6 years** of expertise in the **Software Development**
 ![Subversion](https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=white) 
   
 #### Operating Systems:
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
   
