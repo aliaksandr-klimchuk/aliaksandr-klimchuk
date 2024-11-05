@@ -21,7 +21,7 @@ with **over 6 years** of expertise in the **Software Development**
 **Telegram:** [alex_klimchuk](https://t.me/alex_klimchuk) \
 **Email:** [al3x.klimchuk@gmail.com](mailto:al3x.klimchuk@gmail.com) 
 
-**Location:** Poland, Wroclaw
+**Location:** Wroclaw, Poland
 
 ## Languages
 * **English** - Advanced
