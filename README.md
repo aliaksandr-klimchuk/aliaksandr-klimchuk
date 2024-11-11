@@ -15,11 +15,11 @@ with **over 6 years** of expertise in the **Software Development**
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliaksandr-klimchuk) 
 
 
-[CV - Alex Klimchuk](https://drive.google.com/file/d/1yrDMDTmYo1kTr1MSNyNDDKZHEgnS9YFT/view?usp=sharing) 
+[CV - Alex Klimchuk](https://drive.google.com/file/d/1-yvk8vQ-j-2hG0Lyg6m9mKEAHLvZpoSW/view?usp=sharing) 
 
 ### Contacts
 **Telegram:** [alex_klimchuk](https://t.me/alex_klimchuk) \
-**Email:** [al3x.klimchuk@gmail.com](mailto:al3x.klimchuk@gmail.com) 
+**Email:** [alex_klimchuk@icloud.com](mailto:alex_klimchuk@icloud.com) 
 
 **Location:** Wroclaw, Poland
 
