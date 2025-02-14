@@ -2,7 +2,7 @@
 
 ## About me
 **Alex** \
-**26 y.o.** \
+**27 y.o.** \
 **MBTI type:** ENFJ-A Protagonist 
 
 I have a **Master's Degree** in **Computer Science** 
