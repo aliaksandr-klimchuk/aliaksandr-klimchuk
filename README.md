@@ -15,7 +15,7 @@ with **over 6 years** of expertise in **Software Development**
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliaksandr-klimchuk) 
 
 
-[CV - Alex Klimchuk](https://drive.google.com/file/d/1UyX_4sje8_CWemvfoUcfwoV-hc1rij_m/view?usp=sharing) 
+[CV - Alex Klimchuk](https://drive.google.com/file/d/17y0hGaR1OcTbahvokb9t44GLWrU9DzQ-/view?usp=sharing) 
 
 ### Contacts
 **Telegram:** [alex_klimchuk](https://t.me/alex_klimchuk) \
