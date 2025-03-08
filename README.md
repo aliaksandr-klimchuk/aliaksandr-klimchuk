@@ -8,7 +8,7 @@
 I have a **Master's Degree** in **Computer Science** 
 
 **Senior Full-Stack Java & Vue.js Developer** \
-with **over 6 years** of expertise in the **Software Development** 
+with **over 6 years** of expertise in **Software Development** 
 
 ### Social Networks
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-klimchuk) 
